@@ -1,4 +1,4 @@
-const addNum = (a, b) => {
-console.log( a+b);
+const num = () => {
+return num*2;
 }
-addNum(50,50);
+console.log(num(50));
